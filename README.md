@@ -62,15 +62,15 @@
 
 <br/>
 
+## 🧠 gorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcv9632)](https://solved.ac/choihyungyu0)
+
+<br/>
+
 ## 📫 Contact Me
 - 📮 Email: cchoi9632@gmail.com
 - 📝 Blog: (https://velog.io/@choihyunkyu/posts)
 - 🔗 Notion
-
-<br/>
-
-### 🧠 gorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcv9632)](https://solved.ac/choihyungyu0)
 
 <br/>
 
