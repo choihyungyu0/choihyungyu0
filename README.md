@@ -70,7 +70,7 @@
 <br/>
 
 ### 🧠 gorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=아이디)](https://solved.ac/zxcv9632)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcv9632)](https://solved.ac/choihyungyu0)
 
 <br/>
 
