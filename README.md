@@ -49,7 +49,7 @@
 ## 🚀 Experience
 ### Frontend
 **[2025] FamTalk[호서대학교 중심사업단]** 
-- [📂 GitHub Repository](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main)
+- [📂 GitHub Repository][(https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main)](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_05_FE)
 
 **[2025] 노청마루 [구름톤 University 시즌톤]**🏆 `최우수상 (2위)`
 - [📂 GitHub Repository](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_47_FE)
