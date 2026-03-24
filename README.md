@@ -64,7 +64,7 @@
 
 ## 📫 Contact Me
 - 📮 Email: cchoi9632@gmail.com
-- 📝 Blog: [https://jae-oan.tistory.com/](https://jae-oan.tistory.com/)
+- 📝 Blog: (https://velog.io/@choihyunkyu/posts)
 - 🔗 Notion
 
 <br/>
