@@ -1,18 +1,32 @@
 # My Portfolio
 
+## My Portfolio
+
 <div align="center">
-<img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20TypeScript%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%20CE-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Currently_Learning-React%2C%20TypeScript%2C%20AWS-yellowgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20TypeScript%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently_Learning-React%2C%20TypeScript%2C%20AWS-yellowgreen?style=flat-square" />
 </div>
 <br/>
 
-## 🧑‍💻 About Me
-- 🎓 **충북대학교 소프트웨어학부** 재학 (2023~)
-- 💻 **충북대학교 구름톤 유니브** 프론트엔드 (2025~)
-- 🦁 **충북대학교 멋쟁이사자** 프론트엔드 (2026~)
+## 👨‍💻 About Me
+
+- 🎓 **경남로봇고등학교 로봇소프트웨어과** 졸업  
+  - 로봇 제어, 소프트웨어 개발, 프로그래밍 기초 학습
+- 🛠️ **공군 정보통신대대 행정병** 복무  
+  - 문서 관리, 행정 업무, 조직 내 커뮤니케이션 경험
+- 🎓 **충북대학교 소프트웨어학부** 재학 `(2023~)`
+- 💻 **충북대학교 구름톤 유니브** 프론트엔드 `(2025~)`
+- 🦁 **충북대학교 멋쟁이사자처럼** 프론트엔드 `(2026~)`
 
 <br/>
+
+### 📝 Blog
+<div align="center">
+  <a href="https://velog.io/@choihyunkyu/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
+  </a>
+</div>
 
 ## 🛠️ Tech Stack
 
