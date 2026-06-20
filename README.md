@@ -105,20 +105,57 @@
 <br/>
 
 ## 🚀 Experience
-### Frontend
-**[2025] FamTalk[호서대학교 중심사업단]** 
-- [📂 GitHub Repository]
-- [(https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main)](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_05_FE)
+### Frontend / Backend / AI
 
-**[2025] 노청마루 [구름톤 University 시즌톤]** 🏆 `최우수상 (2위)`
-- [📂 GitHub Repository]
-- (https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_64_FE)
+**[2026] 영주선비길 [AI 관광 코스 추천 플랫폼]**
 
-**[2025] 노하우 [교내 프로젝트]**
-- [📂 GitHub Repository]
-- (https://github.com/choihyungyu0/web-project.git)
+* [📂 GitHub Repository](https://github.com/choihyungyu0/seonbi-talk)
 
-추가 작성 중..
+**[2026] Startup Fit AI [AI 창업 진단 플랫폼]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/StartupFitAI)
+
+**[2026] 부산 온길 AI [보행약자 접근성 데이터 플랫폼]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/ongil)
+
+**[2026] PMS [AI 여성 건강 리포트 플랫폼]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/PMS)
+
+**[2026] NoriGo [외국인 관광객 AI 여행 어시스턴트]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/NoriGo)
+
+**[2026] NoriGo Admin [관광 운영 관리자 대시보드]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/NorigoAdmin)
+
+**[2026] Solar Power [공동주택 태양광 설치 시뮬레이션 MVP]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/solar-power)
+
+**[2026] Sejong Safeway [기후 안전 경로 추천 서비스]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/safeway)
+
+**[2026] MetroPick [광주 2호선 상권 AI 분석 플랫폼]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/MetroPick)
+
+**[2026] 광주 상권·관광 수요예측 코파일럿 [공공데이터 AI 분석 MVP]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/gwangju-demand-copilot)
+
+**[2025] FamTalk [호서대학교 중심사업단]**
+
+* [📂 GitHub Repository](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main)
+
+**[2025] 노청마루 [구름톤 University 시즌톤] 🏆 최우수상**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE)
+
+
 <br/>
 
 ## 🧠 gorithm
