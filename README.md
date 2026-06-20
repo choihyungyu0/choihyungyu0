@@ -107,6 +107,22 @@
 ## 🚀 Experience
 ### Frontend / Backend / AI
 
+## 🚀 Experience
+
+### Frontend / Backend / AI
+
+**[2026] AI-remory [AI 메모리 서비스]**
+
+* [📂 Frontend Repository](https://github.com/AI-Remory/remoryFE)
+
+**[2026] Pothole Prevention Platform [도로 포트홀 예방·신고 플랫폼]**
+
+* [📂 Frontend Repository](https://github.com/Pothole-Prevention-Platform/Frontend)
+
+**[2025] 돌봄 ON [시니어 케어 플랫폼]**
+
+* [📂 Frontend Repository](https://github.com/blaybus-hackathon/frontend)
+
 **[2026] 영주선비길 [AI 관광 코스 추천 플랫폼]**
 
 * [📂 GitHub Repository](https://github.com/choihyungyu0/seonbi-talk)
@@ -151,9 +167,22 @@
 
 * [📂 GitHub Repository](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main)
 
+**[2025] AISW HOSEOTHON FE [호서대학교 AI·SW 해커톤]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/2025_AISW_HOSEOTHON_TEAM_05_FE)
+
 **[2025] 노청마루 [구름톤 University 시즌톤] 🏆 최우수상**
 
 * [📂 GitHub Repository](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE)
+
+**[2025] Nocheongmaru [구름톤 유니브 웹 프로젝트]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/Nocheongmaru)
+
+**[2025] 노하우 [교내 프로젝트]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/web-project)
+
 
 
 <br/>
