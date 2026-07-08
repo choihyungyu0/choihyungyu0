@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/>
 </div>
 
 ### 📱 Mobile
@@ -78,6 +79,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white"/>
 </div>
 
 ### 🤖 AI & Data
@@ -93,11 +95,13 @@
   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/MapLibre-1E5CB3?style=flat&logo=maplibre&logoColor=white"/>
   <img src="https://img.shields.io/badge/deck.gl-0A1F3F?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kakao_Maps-FFCD00?style=flat&logo=kakao&logoColor=000000"/>
 </div>
 
 ### 🚀 DevOps & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
@@ -114,10 +118,9 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=choihyungyu0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choihyungyu0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=choihyungyu0&theme=radical&hide_border=true&background=0d1117)
+![Streak](https://streak-stats.demolab.com/?user=choihyungyu0&theme=radical&hide_border=true&background=0d1117)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=choihyungyu0&theme=radical&no-frame=true&column=7&margin-w=4)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=choihyungyu0&theme=react-dark&hide_border=true&bg_color=0d1117)
-![Contributions](https://github-contributions-api.jogruber.de/v4/choihyungyu0?year=last&theme=dark)
 
 </div>
 <br/>
