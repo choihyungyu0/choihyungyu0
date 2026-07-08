@@ -43,9 +43,17 @@
 ### 🎨 Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat&logo=react&logoColor=black"/>
 </div>
 
 ### 🧩 Backend
@@ -80,12 +88,22 @@
   <img src="https://img.shields.io/badge/YOLO-111F68?style=flat&logo=yolo&logoColor=white"/>
 </div>
 
+### 🗺️ Maps & Geospatial
+<div align="center">
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MapLibre-1E5CB3?style=flat&logo=maplibre&logoColor=white"/>
+  <img src="https://img.shields.io/badge/deck.gl-0A1F3F?style=flat&logoColor=white"/>
+</div>
+
 ### 🚀 DevOps & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </div>
