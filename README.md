@@ -1,11 +1,11 @@
 # My Portfolio
 
-## My Portfolio
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20TypeScript%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-React%20%C2%B7%20Next.js%20%C2%B7%20FastAPI%20%C2%B7%20Supabase-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-OpenAI%20%C2%B7%20RAG%20%C2%B7%20LLM%20Apps-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design-UI%2FUX%20%C2%B7%20Motion%20%C2%B7%203D-DB7093?style=flat-square" />
   <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently_Learning-React%2C%20TypeScript%2C%20AWS-yellowgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently_Learning-AWS-yellowgreen?style=flat-square" />
 </div>
 <br/>
 
