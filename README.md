@@ -177,9 +177,6 @@
 
 * 🔒 Private Repository
 
-**[2026] 모두의 창업 솔루션 [제조·개발 통합 창업 제작 솔루션 홈페이지]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/culture)
 
 **[2026] AI-remory [AI 메모리 서비스]**
 
