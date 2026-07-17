@@ -129,6 +129,58 @@
 
 ### Frontend / Backend / AI
 
+**[2026] SeaShift AI [기후·수산 공급망 조기경보 플랫폼]**
+
+* 🔒 Private Repository
+
+**[2026] 테라클락 (TheraClock) [방사성의약품 선량·투여 최적화]**
+
+* 🔒 Private Repository
+
+**[2026] 골고루 [발전소 AI 안전배치 의사결정지원]**
+
+* 🔒 Private Repository
+
+**[2026] PaperPal [한국어 논문 검색·3줄 요약 비서]**
+
+* 🔒 Private Repository
+
+**[2026] KAC 픽업루프 [공항 QR 특산품 스마트락커 수령]**
+
+* 🔒 Private Repository
+
+**[2026] 다봄 [축산물 가격·날씨 안내 서비스]**
+
+* 🔒 Private Repository
+
+**[2026] 공모전 허브 [공모전 등록·일정·마감 알림 웹앱]**
+
+* 🔒 Private Repository
+
+**[2026] 바람의 지도 [배출원·주거지 대기오염 확산 예측 AI]**
+
+* 🔒 Private Repository
+
+**[2026] 미리온 [복지 사각지대 예측·자격판정 플랫폼]**
+
+* 🔒 Private Repository
+
+**[2026] 온:다 (ON:DA) [안산 상호문화 AI 플랫폼]**
+
+* 🔒 Private Repository
+
+**[2026] 든든시세 [가락시장 시세 → 학교급식 1인 원가 변환]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/dundunsise)
+
+**[2026] 다타버스 (DATA-BUS) [원주 대중교통 사각지대·DRT 최적배치]**
+
+* 🔒 Private Repository
+
+**[2026] 모두의 창업 솔루션 [제조·개발 통합 창업 제작 솔루션 홈페이지]**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/culture)
+
 **[2026] AI-remory [AI 메모리 서비스]**
 
 * [📂 Frontend Repository](https://github.com/AI-Remory/remoryFE)
