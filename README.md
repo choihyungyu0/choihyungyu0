@@ -126,9 +126,6 @@
 <br/>
 
 ## 🚀 Experience
-### Frontend / Backend / AI
-
-## 🚀 Experience
 
 ### Frontend / Backend / AI
 
