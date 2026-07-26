@@ -129,6 +129,10 @@
 
 ### Frontend / Backend / AI
 
+**[2026] RAILIFT NEXT [비전잇 역사 디지털 광고 시제품] 🥈 우수상**
+
+* 🔒 Private Repository
+
 **[2026] SeaShift AI [기후·수산 공급망 조기경보 플랫폼]**
 
 * 🔒 Private Repository
@@ -190,7 +194,7 @@
 
 * [📂 Frontend Repository](https://github.com/blaybus-hackathon/frontend)
 
-**[2026] 영주선비길 [AI 관광 코스 추천 플랫폼]**
+**[2026] 영주선비길 [AI 관광 코스 추천 플랫폼] 🏆 영주시 공공데이터 활용 최우수상**
 
 * [📂 GitHub Repository](https://github.com/choihyungyu0/seonbi-talk)
 
