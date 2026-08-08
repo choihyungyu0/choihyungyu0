@@ -30,19 +30,20 @@
 
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
-| 🏆 **최우수상** | 영주시 공공데이터 활용 경진대회 | [영주선비길](https://github.com/choihyungyu0/seonbi-talk) — AI 관광 코스 추천 플랫폼 |
+| 🏆 **최우수상** | [2026년 영주시 공공데이터 활용 창업경진대회](https://www.imaeil.com/page/view/2026080409462762305)<br/><sub>주최 영주시 · 제품·서비스 개발 부문</sub> | [영주선비길](https://github.com/choihyungyu0/seonbi-talk) — AI 관광 코스 추천 플랫폼 |
 | 🥈 **우수상** | [역사 내외 디지털 광고 사업화 및 성과 측정 아이디어 공모전](https://linkareer.com/activity/330945)<br/><sub>주최 (주)비전잇</sub> | RAILIFT NEXT — 역사 디지털 광고 시제품 |
-| 🎖️ **수상** | GNU-SDGs/ESG 공모전 | *최종 훈격 추후 발표* |
-| 🎖️ **수상** | 달서 전국 대학생 AI 활용 아이디어 콘테스트 | *8월 결선 후 최종 훈격 발표* |
+| 🎖️ **수상** | [2026 GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | *최종 훈격 추후 발표* |
+| 🎖️ **수상** | [2026년 달서 전국 대학생 AI활용 아이디어 콘테스트](https://onestop.kongju.ac.kr/bbs/KNU/2132/428631/artclView.do)<br/><sub>주최 대구광역시 달서구</sub> | *8월 결선 후 최종 훈격 발표* |
 
 ### 2025
 
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
-| 🏆 **최우수상** | 구름톤 University 시즌톤 | [노청마루](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE) |
+| 🏆 **최우수상** | 카카오 x 구름톤 | [노청마루](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE) |
 
 ### 🔥 진행 중 (본선)
 
+- **제14회 범정부 공공데이터·AI 활용 창업경진대회** 통합 본선 — `영주선비길` (영주시 대표 추천)
 - **2026 임업통계 활용 경진대회** — 데이터 기반 분석 프로젝트
 - **2026 고양시 빅데이터 분석대회** — 데이터 기반 분석 프로젝트
 
