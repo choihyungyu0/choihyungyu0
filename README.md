@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/AI-OpenAI%20%C2%B7%20RAG%20%C2%B7%20LLM%20Apps-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/Design-UI%2FUX%20%C2%B7%20Motion%20%C2%B7%203D-DB7093?style=flat-square" />
   <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Awards-5%20Wins-FFB300?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently_Learning-AWS-yellowgreen?style=flat-square" />
 </div>
 <br/>
@@ -18,6 +19,32 @@
 - 🎓 **충북대학교 소프트웨어학부** 재학 `(2023~)`
 - 💻 **충북대학교 구름톤 유니브** 프론트엔드 `(2025~)`
 - 🦁 **충북대학교 멋쟁이사자처럼** 프론트엔드 운영진 `(2026~)`
+
+<br/>
+
+## 🏅 Awards
+
+공공데이터 · AI · 데이터 분석 분야 공모전에서 기획부터 개발까지 맡아 수상했습니다.
+
+### 2026
+
+| 성과 | 대회 | 프로젝트 |
+|:---|:---|:---|
+| 🏆 **최우수상** | 영주시 공공데이터 활용 경진대회 | [영주선비길](https://github.com/choihyungyu0/seonbi-talk) — AI 관광 코스 추천 플랫폼 |
+| 🥈 **우수상** | 카카오 x 구름톤 | RAILIFT NEXT — 비전잇 역사 디지털 광고 시제품 |
+| 🎖️ **수상** | GNU-SDGs/ESG 공모전 | *최종 훈격 추후 발표* |
+| 🎖️ **수상** | 달서 전국 대학생 AI 활용 아이디어 콘테스트 | *8월 결선 후 최종 훈격 발표* |
+
+### 2025
+
+| 성과 | 대회 | 프로젝트 |
+|:---|:---|:---|
+| 🏆 **최우수상** | 구름톤 University 시즌톤 | [노청마루](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE) |
+
+### 🔥 진행 중 (본선)
+
+- **2026 임업통계 활용 경진대회** — 데이터 기반 분석 프로젝트
+- **2026 고양시 빅데이터 분석대회** — 데이터 기반 분석 프로젝트
 
 <br/>
 
