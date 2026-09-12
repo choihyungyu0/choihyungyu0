@@ -39,7 +39,7 @@
 | 🥈 **우수상** | [역사 내외 디지털 광고 사업화 및 성과 측정 아이디어 공모전](https://linkareer.com/activity/330945)<br/><sub>주최 (주)비전잇</sub> | RAILIFT NEXT — 역사 디지털 광고 시제품 |
 | 🎖️ **한국문화관광연구원장상** | [관광데이터 분석 포스터 공모전](https://know.tour.go.kr/customer/event/detail19Re.do?seq=29461)<br/><sub>주최 한국문화관광연구원</sub> | 관광 데이터 분석 포스터 |
 | 🎖️ **한국임업진흥원장상** | 임업통계 활용 경진대회<br/><sub>주최 한국임업진흥원</sub> | 임업 데이터 기반 분석 |
-| 🎖️ **충북인공지능산업협회장상** | 전국 ICT 융합 공모전<br/><sub>주최 충북인공지능산업협회</sub> | ICT 융합 서비스 |
+| 🎖️ **충북인공지능산업협회장상** | 전국 ICT 융합 공모전<br/><sub>주최 충북인공지능산업협회</sub> | [바람의 지도](https://github.com/choihyungyu0/windmap) — 대기오염 확산 예측 AI |
 | 🎖️ **달서구청장상** | [달서 전국 대학생 AI 활용 아이디어 콘테스트](https://onestop.kongju.ac.kr/bbs/KNU/2132/428631/artclView.do)<br/><sub>주최 대구광역시 달서구</sub> | AI 활용 아이디어 |
 | 🎖️ **수상** | [GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | *최종 훈격 추후 발표* |
 
@@ -195,9 +195,9 @@
 
 * 🔒 Private Repository
 
-**[2026] 바람의 지도 [배출원·주거지 대기오염 확산 예측 AI]**
+**[2026] 바람의 지도 [배출원·주거지 대기오염 확산 예측 AI] 🎖️ 전국 ICT 융합 공모전 수상**
 
-* 🔒 Private Repository
+* [📂 GitHub Repository](https://github.com/choihyungyu0/windmap)
 
 **[2026] 미리온 [복지 사각지대 예측·자격판정 플랫폼]**
 
