@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/AI-OpenAI%20%C2%B7%20RAG%20%C2%B7%20LLM%20Apps-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/Design-UI%2FUX%20%C2%B7%20Motion%20%C2%B7%203D-DB7093?style=flat-square" />
   <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Awards-5%20Wins-FFB300?style=flat-square" />
+  <img src="https://img.shields.io/badge/Awards-12%20Wins-FFB300?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently_Learning-AWS-yellowgreen?style=flat-square" />
 </div>
 <br/>
@@ -19,7 +19,7 @@
 - 🎓 **충북대학교 소프트웨어학부** 재학 `(2023~)`
 - 💻 **충북대학교 구름톤 유니브** 프론트엔드 `(2025~)`
 - 🦁 **충북대학교 멋쟁이사자처럼** 프론트엔드 운영진 `(2026~)`
-- 🤖 **UNIKER AI 커널아카데미** 참여 중 `(2026~)`
+- 🤖 **UNIKER AI 커널아카데미** 수료 `(2026.09)`
 
 <br/>
 
@@ -31,23 +31,27 @@
 
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
-| 🏆 **최우수상** | [2026년 영주시 공공데이터 활용 창업경진대회](https://www.imaeil.com/page/view/2026080409462762305)<br/><sub>주최 영주시 · 제품·서비스 개발 부문</sub> | [영주선비길](https://github.com/choihyungyu0/seonbi-talk) — AI 관광 코스 추천 플랫폼 |
+| 🏆 **최우수상** | [영주시 공공데이터 활용 창업경진대회](https://www.imaeil.com/page/view/2026080409462762305)<br/><sub>주최 영주시 · 제품·서비스 개발 부문</sub> | [영주선비길](https://github.com/choihyungyu0/seonbi-talk) — AI 관광 코스 추천 플랫폼 |
+| 🏆 **최우수상** `소방청장상` | 소방안전 데이터 활용 공모전<br/><sub>주최 소방청 · 제품·서비스 개발 부문</sub> | 소방 안전 데이터 서비스 |
+| 🏆 **최우수상** `포항시장상` | 포항시 데이터 분석 아이디어 공모전<br/><sub>주최 포항시</sub> | 포항 공공데이터 분석 |
+| 🏆 **최우수상** `축산물품질평가원장상` | Meet Your Idea 공모전<br/><sub>주최 축산물품질평가원 · 심층 제안 부문</sub> | 다봄 — 축산물 가격·날씨 안내 서비스 |
+| 🏆 **최우수상** `서울시설공단 이사장상` | 서울어린이대공원 AI 아이디어 공모전<br/><sub>주최 서울시설공단</sub> | 어린이대공원 AI 서비스 |
 | 🥈 **우수상** | [역사 내외 디지털 광고 사업화 및 성과 측정 아이디어 공모전](https://linkareer.com/activity/330945)<br/><sub>주최 (주)비전잇</sub> | RAILIFT NEXT — 역사 디지털 광고 시제품 |
-| 🎖️ **수상** | [2026 GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | *최종 훈격 추후 발표* |
-| 🎖️ **수상** | [2026년 달서 전국 대학생 AI활용 아이디어 콘테스트](https://onestop.kongju.ac.kr/bbs/KNU/2132/428631/artclView.do)<br/><sub>주최 대구광역시 달서구</sub> | *8월 결선 후 최종 훈격 발표* |
+| 🎖️ **한국문화관광연구원장상** | [관광데이터 분석 포스터 공모전](https://know.tour.go.kr/customer/event/detail19Re.do?seq=29461)<br/><sub>주최 한국문화관광연구원</sub> | 관광 데이터 분석 포스터 |
+| 🎖️ **한국임업진흥원장상** | 임업통계 활용 경진대회<br/><sub>주최 한국임업진흥원</sub> | 임업 데이터 기반 분석 |
+| 🎖️ **충북인공지능산업협회장상** | 전국 ICT 융합 공모전<br/><sub>주최 충북인공지능산업협회</sub> | ICT 융합 서비스 |
+| 🎖️ **달서구청장상** | [달서 전국 대학생 AI 활용 아이디어 콘테스트](https://onestop.kongju.ac.kr/bbs/KNU/2132/428631/artclView.do)<br/><sub>주최 대구광역시 달서구</sub> | AI 활용 아이디어 |
+| 🎖️ **수상** | [GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | *최종 훈격 추후 발표* |
 
 ### 2025
 
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
-| 🏆 **최우수상** | 카카오 x 구름톤 | [노청마루](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE) |
+| 🏆 **최우수상** | 카카오 x 구름톤 해커톤 | [노청마루](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE) |
 
 ### 🔥 진행 중 (본선)
 
-- **[2026년 관광데이터 분석 포스터 공모전](https://know.tour.go.kr/customer/event/detail19Re.do?seq=29461)** 최종진출작 선정 — 주최 한국문화관광연구원 · 9/7 최종 발표심사
 - **제14회 범정부 공공데이터·AI 활용 창업경진대회** 통합 본선 — `영주선비길` (영주시 대표 추천)
-- **2026 임업통계 활용 경진대회** — 데이터 기반 분석 프로젝트
-- **2026 고양시 빅데이터 분석대회** — 데이터 기반 분석 프로젝트
 
 <br/>
 
