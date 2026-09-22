@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/AI-OpenAI%20%C2%B7%20RAG%20%C2%B7%20LLM%20Apps-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/Design-UI%2FUX%20%C2%B7%20Motion%20%C2%B7%203D-DB7093?style=flat-square" />
   <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Awards-12%20Wins-FFB300?style=flat-square" />
+  <img src="https://img.shields.io/badge/Awards-15%20Wins-FFB300?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently_Learning-AWS-yellowgreen?style=flat-square" />
 </div>
 <br/>
@@ -31,12 +31,15 @@
 
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
+| 🥇 **대상** `서울관광재단 이사장상` | 비짓서울(Visit Seoul) API·데이터 활용 아이디어 공모전<br/><sub>주최 서울관광재단</sub> | 비짓서울 API 활용 관광 서비스 |
 | 🏆 **최우수상** `영주시장상` | [영주시 공공데이터 활용 창업경진대회](https://www.imaeil.com/page/view/2026080409462762305)<br/><sub>주최 영주시 · 제품·서비스 개발 부문</sub> | [영주선비길](https://github.com/choihyungyu0/seonbi-talk) — AI 관광 코스 추천 플랫폼 |
 | 🏆 **최우수상** `소방청장상` | 소방안전 데이터 활용 공모전 (제품·서비스 개발)<br/><sub>주최 소방청</sub> | [사각119](https://github.com/choihyungyu0/sagak119) — 소방 안전 사각지대 분석 |
 | 🏆 **최우수상** `포항시장상` | 포항시 데이터 분석 아이디어 공모전<br/><sub>주최 포항시</sub> | 포항 공공데이터 분석 |
 | 🏆 **최우수상** `축산물품질평가원장상` | Meet Your Idea 공모전<br/><sub>주최 축산물품질평가원 · 심층 제안 부문</sub> | 다봄 — 축산물 가격·날씨 안내 서비스 |
 | 🏆 **최우수상** `서울시설공단 이사장상` | 서울어린이대공원 AI 아이디어 공모전<br/><sub>주최 서울시설공단</sub> | 어린이대공원 AI 서비스 |
 | 🥈 **우수상** | [역사 내외 디지털 광고 사업화 및 성과 측정 아이디어 공모전](https://linkareer.com/activity/330945)<br/><sub>주최 (주)비전잇</sub> | RAILIFT NEXT — 역사 디지털 광고 시제품 |
+| 🥈 **우수상** `한국과학기술연구원장상` | 개방형 XR 협업 플랫폼 서비스 도출 경진대회<br/><sub>주최 한국과학기술연구원(KIST)</sub> | 개방형 XR 협업 플랫폼 서비스 |
+| 🥈 **우수작** `대구도시개발공사 사장상` | 대구도시개발 공공데이터 활용 아이디어 공모전<br/><sub>주최 대구도시개발공사</sub> | 대구 도시개발 공공데이터 분석 |
 | 🎖️ **한국문화관광연구원장상** | [관광데이터 분석 포스터 공모전](https://know.tour.go.kr/customer/event/detail19Re.do?seq=29461)<br/><sub>주최 한국문화관광연구원</sub> | 관광 데이터 분석 포스터 |
 | 🎖️ **한국임업진흥원장상** | 임업통계 활용 경진대회<br/><sub>주최 한국임업진흥원</sub> | 임업 데이터 기반 분석 |
 | 🎖️ **충북인공지능산업협회장상** | 전국 ICT 융합 공모전<br/><sub>주최 충북인공지능산업협회</sub> | [바람의 지도](https://github.com/choihyungyu0/windmap) — 대기오염 확산 예측 AI |
