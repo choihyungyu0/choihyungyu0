@@ -44,6 +44,7 @@
 | 🎖️ **한국임업진흥원장상** | 임업통계 활용 경진대회<br/><sub>주최 한국임업진흥원</sub> | 임업 데이터 기반 분석 |
 | 🎖️ **충북인공지능산업협회장상** | 전국 ICT 융합 공모전<br/><sub>주최 충북인공지능산업협회</sub> | [바람의 지도](https://github.com/choihyungyu0/windmap) — 대기오염 확산 예측 AI |
 | 🎖️ **달서구청장상** | [달서 전국 대학생 AI 활용 아이디어 콘테스트](https://onestop.kongju.ac.kr/bbs/KNU/2132/428631/artclView.do)<br/><sub>주최 대구광역시 달서구</sub> | AI 활용 아이디어 |
+| 🎖️ **사업단장상** | 통일부 공공데이터 활용 공모전<br/><sub>주최 통일부 · 주관 고려대학교 세종캠퍼스</sub> | [겹쳐읽기](https://github.com/choihyungyu0/gyeopchyo) — 통일부 개방 데이터 6종 겹쳐 읽기 |
 | 🎖️ **수상** | [GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | *최종 훈격 추후 발표* |
 
 ### 2025
