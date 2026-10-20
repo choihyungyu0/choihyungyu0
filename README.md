@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/AI-OpenAI%20%C2%B7%20RAG%20%C2%B7%20LLM%20Apps-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/Design-UI%2FUX%20%C2%B7%20Motion%20%C2%B7%203D-DB7093?style=flat-square" />
   <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Awards-16%20Wins-FFB300?style=flat-square" />
+  <img src="https://img.shields.io/badge/Awards-17%20Wins-FFB300?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently_Learning-AWS-yellowgreen?style=flat-square" />
 </div>
 <br/>
@@ -31,7 +31,9 @@
 
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
+| 🥇 **대상** `경상국립대학교 총장상` | [GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | SDGs/ESG 아이디어 |
 | 🥇 **대상** `서울관광재단 이사장상` | 비짓서울(Visit Seoul) API·데이터 활용 아이디어 공모전<br/><sub>주최 서울관광재단</sub> | 비짓서울 API 활용 관광 서비스 |
+| 🏆 **수상 예정** `안양시장상` | 안양시 공공데이터·AI 활용 대학생 공모전<br/><sub>주최 안양시</sub> | [필지 블랙박스](https://github.com/choihyungyu0/pilji-blackbox) — 토지 분쟁 사건 워크플로·법정서식 자동화 |
 | 🏆 **최우수상** `행정안전부 장관상` | 2026 공중화장실 혁신 아이디어 공모전<br/><sub>주최 행정안전부</sub> | 공중화장실 혁신 아이디어 |
 | 🏆 **최우수상** `영주시장상` | [영주시 공공데이터 활용 창업경진대회](https://www.imaeil.com/page/view/2026080409462762305)<br/><sub>주최 영주시 · 제품·서비스 개발 부문</sub> | [영주선비길](https://github.com/choihyungyu0/seonbi-talk) — AI 관광 코스 추천 플랫폼 |
 | 🏆 **최우수상** `소방청장상` | 소방안전 데이터 활용 공모전 (제품·서비스 개발)<br/><sub>주최 소방청</sub> | [사각119](https://github.com/choihyungyu0/sagak119) — 소방 안전 사각지대 분석 |
@@ -46,7 +48,6 @@
 | 🥉 **장려상** `충북인공지능산업협회장상` | 전국 ICT 융합 공모전<br/><sub>주최 충북인공지능산업협회</sub> | [바람의 지도](https://github.com/choihyungyu0/windmap) — 대기오염 확산 예측 AI |
 | 🎖️ **입선** `달서구청장상` | [달서 전국 대학생 AI 활용 아이디어 콘테스트](https://onestop.kongju.ac.kr/bbs/KNU/2132/428631/artclView.do)<br/><sub>주최 대구광역시 달서구</sub> | AI 활용 아이디어 |
 | 🎖️ **사업단장상** `고려대학교 세종캠퍼스 통일교육선도대학 사업단장상` | AI 기반 지속가능한 통일 아이디어 공모전<br/><sub>주최 고려대학교 세종캠퍼스 통일교육선도대학 사업단</sub> | [겹쳐읽기](https://github.com/choihyungyu0/gyeopchyo) — 통일부 개방 데이터 6종 겹쳐 읽기 |
-| 🎖️ **수상** | [GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | *최종 훈격 추후 발표* |
 
 ### 2025
 
