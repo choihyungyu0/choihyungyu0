@@ -32,21 +32,21 @@
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
 | 🥇 **대상** `경상국립대학교 총장상` | [GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | SDGs/ESG 아이디어 |
-| 🥇 **대상** `서울관광재단 이사장상` | 비짓서울(Visit Seoul) API·데이터 활용 아이디어 공모전<br/><sub>주최 서울관광재단</sub> | 비짓서울 API 활용 관광 서비스 |
+| 🥇 **대상** `서울관광재단 대표이사상` | 비짓서울(Visit Seoul) API·데이터 활용 아이디어 공모전<br/><sub>주최 서울관광재단</sub> | 비짓서울 API 활용 관광 서비스 |
 | 🏆 **수상 예정** `안양시장상` | 안양시 공공데이터·AI 활용 대학생 공모전<br/><sub>주최 안양시</sub> | [필지 블랙박스](https://github.com/choihyungyu0/pilji-blackbox) — 토지 분쟁 사건 워크플로·법정서식 자동화 |
 | 🏆 **최우수상** `행정안전부 장관상` | 2026 공중화장실 혁신 아이디어 공모전<br/><sub>주최 행정안전부</sub> | 공중화장실 혁신 아이디어 |
 | 🏆 **최우수상** `영주시장상` | [영주시 공공데이터 활용 창업경진대회](https://www.imaeil.com/page/view/2026080409462762305)<br/><sub>주최 영주시 · 제품·서비스 개발 부문</sub> | [영주선비길](https://github.com/choihyungyu0/seonbi-talk) — AI 관광 코스 추천 플랫폼 |
-| 🏆 **최우수상** `소방청장상` | 소방안전 데이터 활용 공모전 (제품·서비스 개발)<br/><sub>주최 소방청</sub> | [사각119](https://github.com/choihyungyu0/sagak119) — 소방 안전 사각지대 분석 |
+| 🏆 **최우수상** `소방청장상` | 제6회 소방안전 빅데이터 활용 및 아이디어 경진대회<br/><sub>주최 소방청 · 서비스개발 부문</sub> | [사각119](https://github.com/choihyungyu0/sagak119) — 소방 안전 사각지대 분석 |
 | 🏆 **최우수상** `포항시장상` | 포항시 데이터 분석 아이디어 공모전<br/><sub>주최 포항시</sub> | 포항 공공데이터 분석 |
 | 🏆 **최우수상** `축산물품질평가원장상` | Meet Your Idea 공모전<br/><sub>주최 축산물품질평가원 · 심층 제안 부문</sub> | 다봄 — 축산물 가격·날씨 안내 서비스 |
 | 🏆 **최우수상** `서울시설공단 이사장상` | 서울어린이대공원 AI 아이디어 공모전<br/><sub>주최 서울시설공단</sub> | 어린이대공원 AI 서비스 |
 | 🥈 **우수상** `비전잇 대표상` | [역사 내외 디지털 광고 사업화 및 성과 측정 아이디어 공모전](https://linkareer.com/activity/330945)<br/><sub>주최 (주)비전잇</sub> | RAILIFT NEXT — 역사 디지털 광고 시제품 |
 | 🥈 **우수상** `한국과학기술정보연구원장상` | 개방형 XR 협업 플랫폼 서비스 도출 경진대회<br/><sub>주최 한국과학기술정보연구원(KISTI)</sub> | 개방형 XR 협업 플랫폼 서비스 |
-| 🥈 **우수상** `국민체육진흥공단 이사장상` | 2026 국민체육진흥공단 데이터 활용 공모전<br/><sub>주최 국민체육진흥공단 · 제품·서비스 개발 부문</sub> | 도달팀 — 체육 데이터 활용 서비스 |
+| 🥈 **우수상** `국민체육진흥공단 이사장상` | 2026 국민체육진흥공단 공공데이터 활용 경진대회<br/><sub>주최 국민체육진흥공단 · 웹·앱 서비스 개발 부문</sub> | 먼저봄 (도달팀) |
 | 🥈 **우수작** `대구도시개발공사 사장상` | 대구도시개발 공공데이터 활용 아이디어 공모전<br/><sub>주최 대구도시개발공사</sub> | 대구 도시개발 공공데이터 분석 |
 | 🥈 **우수상** `한국문화관광연구원장상` | [관광데이터 분석 포스터 공모전](https://know.tour.go.kr/customer/event/detail19Re.do?seq=29461)<br/><sub>주최 한국문화관광연구원</sub> | 관광 데이터 분석 포스터 |
 | 🥉 **장려상** `한국임업진흥원장상` | 임업통계 활용 경진대회<br/><sub>주최 한국임업진흥원</sub> | 임업 데이터 기반 분석 |
-| 🥉 **장려상** `충북인공지능산업협회장상` | 전국 ICT 융합 공모전<br/><sub>주최 충북인공지능산업협회</sub> | [바람의 지도](https://github.com/choihyungyu0/windmap) — 대기오염 확산 예측 AI |
+| 🥉 **장려상** `충북인공지능산업협회장상` | 제13회 전국 ICT융합 AI 공모전<br/><sub>주최 충북인공지능산업협회</sub> | [바람의 지도](https://github.com/choihyungyu0/windmap) — 대기오염 확산 예측 AI |
 | 🎖️ **입선** `달서구청장상` | [달서 전국 대학생 AI 활용 아이디어 콘테스트](https://onestop.kongju.ac.kr/bbs/KNU/2132/428631/artclView.do)<br/><sub>주최 대구광역시 달서구</sub> | AI 활용 아이디어 |
 | 🎖️ **사업단장상** `고려대학교 세종캠퍼스 통일교육선도대학 사업단장상` | AI 기반 지속가능한 통일 아이디어 공모전<br/><sub>주최 고려대학교 세종캠퍼스 통일교육선도대학 사업단</sub> | [겹쳐읽기](https://github.com/choihyungyu0/gyeopchyo) — 통일부 개방 데이터 6종 겹쳐 읽기 |
 
@@ -204,7 +204,7 @@
 
 * 🔒 Private Repository
 
-**[2026] 바람의 지도 [배출원·주거지 대기오염 확산 예측 AI] 🥉 전국 ICT 융합 공모전 장려상**
+**[2026] 바람의 지도 [배출원·주거지 대기오염 확산 예측 AI] 🥉 전국 ICT융합 AI 공모전 장려상**
 
 * [📂 GitHub Repository](https://github.com/choihyungyu0/windmap)
 
@@ -301,14 +301,14 @@
 
 <br/>
 
-## 🧠 gorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcv9632)](https://solved.ac/choihyungyu0)
+## 🧠 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcv9632)](https://solved.ac/profile/zxcv9632)
 
 <br/>
 
 ## 📫 Contact Me
 - 📮 Email: cchoi9632@gmail.com
-- 📝 Blog: (https://velog.io/@choihyunkyu/posts)
+- 📝 Blog: [velog.io/@choihyunkyu](https://velog.io/@choihyunkyu/posts)
 - 🔗 Notion
 
 <br/>
