@@ -172,6 +172,22 @@
 
 ### Frontend / Backend / AI
 
+**[2026] 먼저봄 [국민체육진흥공단 공공데이터 활용 웹·앱 서비스] 🥈 국민체육진흥공단 이사장상 우수상**
+
+* 🔒 Private Repository
+
+**[2026] 사각119 [화재 사망 사각지대 분석·소방 안전 보급 타깃팅] 🏆 소방청장상 최우수상**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/sagak119)
+
+**[2026] 필지 블랙박스 [토지 분쟁 사건 워크플로·법정서식 자동화] 🏆 안양시장상 수상 예정**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/pilji-blackbox)
+
+**[2026] 겹쳐읽기 [통일부 개방 데이터 6종 겹쳐 읽기] 🎖️ 고려대학교 세종캠퍼스 통일교육선도대학 사업단장상**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/gyeopchyo)
+
 **[2026] RAILIFT NEXT [비전잇 역사 디지털 광고 시제품] 🥈 우수상**
 
 * 🔒 Private Repository
@@ -196,7 +212,7 @@
 
 * 🔒 Private Repository
 
-**[2026] 다봄 [축산물 가격·날씨 안내 서비스]**
+**[2026] 다봄 [축산물 가격·날씨 안내 서비스] 🏆 축산물품질평가원장상 최우수상**
 
 * 🔒 Private Repository
 
