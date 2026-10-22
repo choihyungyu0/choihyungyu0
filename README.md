@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/AI-OpenAI%20%C2%B7%20RAG%20%C2%B7%20LLM%20Apps-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/Design-UI%2FUX%20%C2%B7%20Motion%20%C2%B7%203D-DB7093?style=flat-square" />
   <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Awards-17%20Wins-FFB300?style=flat-square" />
+  <img src="https://img.shields.io/badge/Awards-18%20Wins-FFB300?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently_Learning-AWS-yellowgreen?style=flat-square" />
 </div>
 <br/>
@@ -42,6 +42,7 @@
 | 🏆 **최우수상** `서울시설공단 이사장상` | 서울어린이대공원 AI 아이디어 공모전<br/><sub>주최 서울시설공단</sub> | 어린이대공원 AI 서비스 |
 | 🥈 **우수상** `비전잇 대표상` | [역사 내외 디지털 광고 사업화 및 성과 측정 아이디어 공모전](https://linkareer.com/activity/330945)<br/><sub>주최 (주)비전잇</sub> | RAILIFT NEXT — 역사 디지털 광고 시제품 |
 | 🥈 **우수상** `한국과학기술연구원장상` | 개방형 XR 협업 플랫폼 서비스 도출 경진대회<br/><sub>주최 한국과학기술연구원(KIST)</sub> | 개방형 XR 협업 플랫폼 서비스 |
+| 🥈 **우수상** `국민체육진흥공단 이사장상` | 2026 국민체육진흥공단 데이터 활용 공모전<br/><sub>주최 국민체육진흥공단 · 제품·서비스 개발 부문</sub> | 도달팀 — 체육 데이터 활용 서비스 |
 | 🥈 **우수작** `대구도시개발공사 사장상` | 대구도시개발 공공데이터 활용 아이디어 공모전<br/><sub>주최 대구도시개발공사</sub> | 대구 도시개발 공공데이터 분석 |
 | 🥈 **우수상** `한국문화관광연구원장상` | [관광데이터 분석 포스터 공모전](https://know.tour.go.kr/customer/event/detail19Re.do?seq=29461)<br/><sub>주최 한국문화관광연구원</sub> | 관광 데이터 분석 포스터 |
 | 🥉 **장려상** `한국임업진흥원장상` | 임업통계 활용 경진대회<br/><sub>주최 한국임업진흥원</sub> | 임업 데이터 기반 분석 |
@@ -58,7 +59,6 @@
 ### 🔥 진행 중
 
 - **[2026년 장애인 분야 해커톤 대회 : 장애 플러스 기술](https://linkareer.com/activity/331579)** `2차 진행 중` — 디지털 포용 부문 · 주최 한국장애인고용공단
-- **[제4차 K-CURE 데이터 활용 경진대회](https://kcurecompetition.com/)** `2차 진행 중` — 암 임상·공공 데이터 분석 · 주최 보건복지부
 - **제14회 범정부 공공데이터·AI 활용 창업경진대회** 통합 본선 — `영주선비길` (영주시 대표 추천)
 - **2026년 데이터·AI 크리에이터 캠프** 참여 중 — 주최 한국지능정보사회진흥원(NIA)
 - **멋쟁이사자처럼 해커톤** 주최·운영 준비 중 — 충북대학교 프론트엔드 운영진
