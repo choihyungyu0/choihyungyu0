@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/AI-OpenAI%20%C2%B7%20RAG%20%C2%B7%20LLM%20Apps-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/Design-UI%2FUX%20%C2%B7%20Motion%20%C2%B7%203D-DB7093?style=flat-square" />
   <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Awards-18%20Wins-FFB300?style=flat-square" />
+  <img src="https://img.shields.io/badge/Awards-19%20Wins-FFB300?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently_Learning-AWS-yellowgreen?style=flat-square" />
 </div>
 <br/>
@@ -31,6 +31,7 @@
 
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
+| 🥇 **대상** `부총리 겸 과학기술정보통신부 장관상` | 제3회 미래융합인재 발굴 SW 챌린지<br/><sub>주최 과학기술정보통신부·경산시 · AI 및 빅데이터 분야</sub> | [온지붕](https://github.com/choihyungyu0/slate-roof-gyeongsan) — 건축물대장 AI 기반 석면 슬레이트 주택 발굴 (도달팀) |
 | 🥇 **대상** `경상국립대학교 총장상` | [GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | SDGs/ESG 아이디어 |
 | 🥇 **대상** `서울관광재단 대표이사상` | 비짓서울(Visit Seoul) API·데이터 활용 아이디어 공모전<br/><sub>주최 서울관광재단</sub> | 비짓서울 API 활용 관광 서비스 |
 | 🏆 **수상 예정** `안양시장상` | 안양시 공공데이터·AI 활용 대학생 공모전<br/><sub>주최 안양시</sub> | [필지 블랙박스](https://github.com/choihyungyu0/pilji-blackbox) — 토지 분쟁 사건 워크플로·법정서식 자동화 |
@@ -45,10 +46,10 @@
 | 🥈 **우수상** `국민체육진흥공단 이사장상` | 2026 국민체육진흥공단 공공데이터 활용 경진대회<br/><sub>주최 국민체육진흥공단 · 웹·앱 서비스 개발 부문</sub> | 먼저봄 (도달팀) |
 | 🥈 **우수작** `대구도시개발공사 사장상` | 대구도시개발 공공데이터 활용 아이디어 공모전<br/><sub>주최 대구도시개발공사</sub> | 대구 도시개발 공공데이터 분석 |
 | 🥈 **우수상** `한국문화관광연구원장상` | [관광데이터 분석 포스터 공모전](https://know.tour.go.kr/customer/event/detail19Re.do?seq=29461)<br/><sub>주최 한국문화관광연구원</sub> | 관광 데이터 분석 포스터 |
+| 🥈 **우수상** `고려대학교 세종캠퍼스 통일교육선도대학 사업단장상` | AI 기반 지속가능한 통일 아이디어 공모전<br/><sub>주최 고려대학교 세종캠퍼스 통일교육선도대학 사업단</sub> | [겹쳐읽기](https://github.com/choihyungyu0/gyeopchyo) — 통일부 개방 데이터 6종 겹쳐 읽기 |
 | 🥉 **장려상** `한국임업진흥원장상` | 임업통계 활용 경진대회<br/><sub>주최 한국임업진흥원</sub> | 임업 데이터 기반 분석 |
 | 🥉 **장려상** `충북인공지능산업협회장상` | 제13회 전국 ICT융합 AI 공모전<br/><sub>주최 충북인공지능산업협회</sub> | [바람의 지도](https://github.com/choihyungyu0/windmap) — 대기오염 확산 예측 AI |
 | 🎖️ **입선** `달서구청장상` | [달서 전국 대학생 AI 활용 아이디어 콘테스트](https://onestop.kongju.ac.kr/bbs/KNU/2132/428631/artclView.do)<br/><sub>주최 대구광역시 달서구</sub> | AI 활용 아이디어 |
-| 🎖️ **사업단장상** `고려대학교 세종캠퍼스 통일교육선도대학 사업단장상` | AI 기반 지속가능한 통일 아이디어 공모전<br/><sub>주최 고려대학교 세종캠퍼스 통일교육선도대학 사업단</sub> | [겹쳐읽기](https://github.com/choihyungyu0/gyeopchyo) — 통일부 개방 데이터 6종 겹쳐 읽기 |
 
 ### 2025
 
@@ -172,6 +173,10 @@
 
 ### Frontend / Backend / AI
 
+**[2026] 온지붕 [건축물대장 AI 기반 석면 슬레이트 주택 발굴] 🥇 부총리 겸 과학기술정보통신부 장관상 대상**
+
+* [📂 GitHub Repository](https://github.com/choihyungyu0/slate-roof-gyeongsan)
+
 **[2026] 먼저봄 [국민체육진흥공단 공공데이터 활용 웹·앱 서비스] 🥈 국민체육진흥공단 이사장상 우수상**
 
 * 🔒 Private Repository
@@ -184,7 +189,7 @@
 
 * [📂 GitHub Repository](https://github.com/choihyungyu0/pilji-blackbox)
 
-**[2026] 겹쳐읽기 [통일부 개방 데이터 6종 겹쳐 읽기] 🎖️ 고려대학교 세종캠퍼스 통일교육선도대학 사업단장상**
+**[2026] 겹쳐읽기 [통일부 개방 데이터 6종 겹쳐 읽기] 🥈 고려대학교 세종캠퍼스 통일교육선도대학 사업단장상 우수상**
 
 * [📂 GitHub Repository](https://github.com/choihyungyu0/gyeopchyo)
 
