@@ -1,33 +1,31 @@
-# My Portfolio
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-React%20%C2%B7%20Next.js%20%C2%B7%20FastAPI%20%C2%B7%20Supabase-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-OpenAI%20%C2%B7%20RAG%20%C2%B7%20LLM%20Apps-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design-UI%2FUX%20%C2%B7%20Motion%20%C2%B7%203D-DB7093?style=flat-square" />
-  <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Awards-19%20Wins-FFB300?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently_Learning-AWS-yellowgreen?style=flat-square" />
+
+# 최현규
+
+**공공데이터로 현장의 문제를 푸는 풀스택 개발자**<br/>
+충북대학교 소프트웨어학부 · 멋쟁이사자처럼 충북대 프론트엔드 운영진
+
+[이메일](mailto:cchoi9632@gmail.com) · [블로그](https://velog.io/@choihyunkyu/posts) · [solved.ac](https://solved.ac/profile/zxcv9632)
+
 </div>
-<br/>
-
-## 👨‍💻 About Me
-
-- 🎓 **경남로봇고등학교 로봇소프트웨어과** 졸업  
-  - 로봇 제어, 소프트웨어 개발, 프로그래밍 기초 학습
-- 🛠️ **공군 정보통신대대 행정병** 복무  
-  - 문서 관리, 행정 업무, 조직 내 커뮤니케이션 경험
-- 🎓 **충북대학교 소프트웨어학부** 재학 `(2023~)`
-- 💻 **충북대학교 구름톤 유니브** 프론트엔드 `(2025~)`
-- 🦁 **충북대학교 멋쟁이사자처럼** 프론트엔드 운영진 `(2026~)`
-- 🤖 **UNIKER AI 커널아카데미** 수료 `(2026.09)`
 
 <br/>
 
-## 🏅 Awards
+## Highlights
 
-공공데이터 · AI · 데이터 분석 분야 공모전에서 기획부터 개발까지 맡아 수상했습니다.
+공공데이터 · AI 분야 공모전과 해커톤에서 기획부터 개발까지 맡아 **수상 19건**(대상 3 · 최우수 7 · 우수 6 · 장려 2 · 입선 1), 수상 예정 1건.
 
-### 2026
+| 수상 | 대회 | 프로젝트 |
+|:---|:---|:---|
+| **대상** · 부총리 겸 과학기술정보통신부 장관상 | 제3회 미래융합인재 발굴 SW 챌린지 | [온지붕](https://github.com/choihyungyu0/slate-roof-gyeongsan) |
+| **대상** · 경상국립대학교 총장상 | GNU-SDGs/ESG 공모전 | SDGs/ESG 아이디어 |
+| **대상** · 서울관광재단 대표이사상 | 비짓서울 API·데이터 활용 아이디어 공모전 | 비짓서울 API 활용 관광 서비스 |
+
+<details>
+<summary><b>전체 수상 내역 보기</b></summary>
+<br/>
+
+#### 2026
 
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
@@ -51,289 +49,86 @@
 | 🥉 **장려상** `충북인공지능산업협회장상` | 제13회 전국 ICT융합 AI 공모전<br/><sub>주최 충북인공지능산업협회</sub> | [바람의 지도](https://github.com/choihyungyu0/windmap) — 대기오염 확산 예측 AI |
 | 🎖️ **입선** `달서구청장상` | [달서 전국 대학생 AI 활용 아이디어 콘테스트](https://onestop.kongju.ac.kr/bbs/KNU/2132/428631/artclView.do)<br/><sub>주최 대구광역시 달서구</sub> | AI 활용 아이디어 |
 
-### 2025
+#### 2025
 
 | 성과 | 대회 | 프로젝트 |
 |:---|:---|:---|
 | 🏆 **최우수상** | 카카오 x 구름톤 해커톤 | [노청마루](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE) |
 
-### 🔥 진행 중
-
-- **[2026년 장애인 분야 해커톤 대회 : 장애 플러스 기술](https://linkareer.com/activity/331579)** `2차 진행 중` — 디지털 포용 부문 · 주최 한국장애인고용공단
-- **2026년 데이터·AI 크리에이터 캠프** 참여 중 — 주최 한국지능정보사회진흥원(NIA)
-- **멋쟁이사자처럼 해커톤** 주최·운영 준비 중 — 충북대학교 프론트엔드 운영진
+</details>
 
 <br/>
 
-### 📝 Blog
-<div align="center">
-  <a href="https://velog.io/@choihyunkyu/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
-  </a>
-</div>
+## Featured Projects
 
-## 🛠️ Tech Stack
+| 프로젝트 | 무엇을 했나 | 결과 |
+|:---|:---|:---|
+| [**온지붕**](https://github.com/choihyungyu0/slate-roof-gyeongsan) | 건축물대장 지붕 기재를 규칙표로 전수 판정해 석면 슬레이트 주택을 찾고, 담당 공무원용 명부·안내문·현장 확인 화면까지 구현 | 대상 · 과학기술정보통신부 장관상 |
+| [**사각119**](https://github.com/choihyungyu0/sagak119) | 화재 사망 사각지대를 분석해 주택용 소방시설 보급 대상을 타깃팅 | 최우수상 · 소방청장상 |
+| [**영주선비길**](https://github.com/choihyungyu0/seonbi-talk) | 영주 공공데이터 기반 AI 관광 코스 추천 플랫폼 | 최우수상 · 영주시장상 |
+| [**필지&nbsp;블랙박스**](https://github.com/choihyungyu0/pilji-blackbox) | 토지 분쟁 사건 워크플로와 법정서식 작성을 자동화 | 안양시장상 수상 예정 |
 
-### 💻 Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</div>
-
-### 🎨 Frontend
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat&logo=react&logoColor=black"/>
-</div>
-
-### 🧩 Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/>
-</div>
-
-### 📱 Mobile
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
-</div>
-
-### 🗄️ Database & BaaS
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white"/>
-</div>
-
-### 🤖 AI & Data
-<div align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat&logo=yolo&logoColor=white"/>
-</div>
-
-### 🗺️ Maps & Geospatial
-<div align="center">
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MapLibre-1E5CB3?style=flat&logo=maplibre&logoColor=white"/>
-  <img src="https://img.shields.io/badge/deck.gl-0A1F3F?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kakao_Maps-FFCD00?style=flat&logo=kakao&logoColor=000000"/>
-</div>
-
-### 🚀 DevOps & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</div>
-<br>
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=choihyungyu0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choihyungyu0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)
-![Streak](https://streak-stats.demolab.com/?user=choihyungyu0&theme=radical&hide_border=true&background=0d1117)
-![Trophies](https://github-profile-trophy.vercel.app/?username=choihyungyu0&theme=radical&no-frame=true&column=7&margin-w=4)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=choihyungyu0&theme=react-dark&hide_border=true&bg_color=0d1117)
-
-</div>
+<details>
+<summary><b>다른 프로젝트 32개 보기</b></summary>
 <br/>
 
-## 🚀 Experience
-
-### Frontend / Backend / AI
-
-**[2026] 온지붕 [건축물대장 AI 기반 석면 슬레이트 주택 발굴] 🥇 부총리 겸 과학기술정보통신부 장관상 대상**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/slate-roof-gyeongsan)
-
-**[2026] 먼저봄 [국민체육진흥공단 공공데이터 활용 웹·앱 서비스] 🥈 국민체육진흥공단 이사장상 우수상**
-
-* 🔒 Private Repository
-
-**[2026] 사각119 [화재 사망 사각지대 분석·소방 안전 보급 타깃팅] 🏆 소방청장상 최우수상**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/sagak119)
-
-**[2026] 필지 블랙박스 [토지 분쟁 사건 워크플로·법정서식 자동화] 🏆 안양시장상 수상 예정**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/pilji-blackbox)
-
-**[2026] 겹쳐읽기 [통일부 개방 데이터 6종 겹쳐 읽기]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/gyeopchyo)
-
-**[2026] RAILIFT NEXT [비전잇 역사 디지털 광고 시제품] 🥈 우수상**
-
-* 🔒 Private Repository
-
-**[2026] SeaShift AI [기후·수산 공급망 조기경보 플랫폼]**
-
-* 🔒 Private Repository
-
-**[2026] 테라클락 (TheraClock) [방사성의약품 선량·투여 최적화]**
-
-* 🔒 Private Repository
-
-**[2026] 골고루 [발전소 AI 안전배치 의사결정지원]**
-
-* 🔒 Private Repository
-
-**[2026] PaperPal [한국어 논문 검색·3줄 요약 비서]**
-
-* 🔒 Private Repository
-
-**[2026] KAC 픽업루프 [공항 QR 특산품 스마트락커 수령]**
-
-* 🔒 Private Repository
-
-**[2026] 다봄 [축산물 가격·날씨 안내 서비스] 🏆 축산물품질평가원장상 최우수상**
-
-* 🔒 Private Repository
-
-**[2026] 공모전 허브 [공모전 등록·일정·마감 알림 웹앱]**
-
-* 🔒 Private Repository
-
-**[2026] 바람의 지도 [배출원·주거지 대기오염 확산 예측 AI] 🥉 전국 ICT융합 AI 공모전 장려상**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/windmap)
-
-**[2026] 미리온 [복지 사각지대 예측·자격판정 플랫폼]**
-
-* 🔒 Private Repository
-
-**[2026] 온:다 (ON:DA) [안산 상호문화 AI 플랫폼]**
-
-* 🔒 Private Repository
-
-**[2026] 든든시세 [가락시장 시세 → 학교급식 1인 원가 변환]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/dundunsise)
-
-**[2026] 다타버스 (DATA-BUS) [원주 대중교통 사각지대·DRT 최적배치]**
-
-* 🔒 Private Repository
-
-
-**[2026] AI-remory [AI 메모리 서비스]**
-
-* [📂 Frontend Repository](https://github.com/AI-Remory/remoryFE)
-
-**[2026] Pothole Prevention Platform [도로 포트홀 예방·신고 플랫폼]**
-
-* [📂 Frontend Repository](https://github.com/Pothole-Prevention-Platform/Frontend)
-
-**[2025] 돌봄 ON [시니어 케어 플랫폼]**
-
-* [📂 Frontend Repository](https://github.com/blaybus-hackathon/frontend)
-
-**[2026] 영주선비길 [AI 관광 코스 추천 플랫폼] 🏆 영주시 공공데이터 활용 최우수상**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/seonbi-talk)
-
-**[2026] Startup Fit AI [AI 창업 진단 플랫폼]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/StartupFitAI)
-
-**[2026] 부산 온길 AI [보행약자 접근성 데이터 플랫폼]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/ongil)
-
-**[2026] PMS [AI 여성 건강 리포트 플랫폼]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/PMS)
-
-**[2026] NoriGo [외국인 관광객 AI 여행 어시스턴트]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/NoriGo)
-
-**[2026] NoriGo Admin [관광 운영 관리자 대시보드]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/NorigoAdmin)
-
-**[2026] Solar Power [공동주택 태양광 설치 시뮬레이션 MVP]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/solar-power)
-
-**[2026] Sejong Safeway [기후 안전 경로 추천 서비스]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/safeway)
-
-**[2026] MetroPick [광주 2호선 상권 AI 분석 플랫폼]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/MetroPick)
-
-**[2026] 광주 상권·관광 수요예측 코파일럿 [공공데이터 AI 분석 MVP]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/gwangju-demand-copilot)
-
-**[2025] FamTalk [호서대학교 중심사업단]**
-
-* [📂 GitHub Repository](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main)
-
-**[2025] AISW HOSEOTHON FE [호서대학교 AI·SW 해커톤]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/2025_AISW_HOSEOTHON_TEAM_05_FE)
-
-**[2025] 노청마루 [구름톤 University 시즌톤] 🏆 최우수상**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE)
-
-**[2025] Nocheongmaru [구름톤 유니브 웹 프로젝트]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/Nocheongmaru)
-
-**[2025] 노하우 [교내 프로젝트]**
-
-* [📂 GitHub Repository](https://github.com/choihyungyu0/web-project)
-
-
+#### 2026
+
+| 프로젝트 | 내용 | 링크 |
+|:---|:---|:---|
+| 먼저봄 | 국민체육진흥공단 공공데이터 활용 웹·앱 서비스 · 국민체육진흥공단 이사장상 우수상 | 비공개 |
+| 겹쳐읽기 | 통일부 개방 데이터 6종 겹쳐 읽기 | [저장소](https://github.com/choihyungyu0/gyeopchyo) |
+| RAILIFT NEXT | 비전잇 역사 디지털 광고 시제품 · 우수상 | 비공개 |
+| SeaShift AI | 기후·수산 공급망 조기경보 플랫폼 | 비공개 |
+| 테라클락 (TheraClock) | 방사성의약품 선량·투여 최적화 | 비공개 |
+| 골고루 | 발전소 AI 안전배치 의사결정지원 | 비공개 |
+| PaperPal | 한국어 논문 검색·3줄 요약 비서 | 비공개 |
+| KAC 픽업루프 | 공항 QR 특산품 스마트락커 수령 | 비공개 |
+| 다봄 | 축산물 가격·날씨 안내 서비스 · 축산물품질평가원장상 최우수상 | 비공개 |
+| 공모전 허브 | 공모전 등록·일정·마감 알림 웹앱 | 비공개 |
+| 바람의 지도 | 배출원·주거지 대기오염 확산 예측 AI · 전국 ICT융합 AI 공모전 장려상 | [저장소](https://github.com/choihyungyu0/windmap) |
+| 미리온 | 복지 사각지대 예측·자격판정 플랫폼 | 비공개 |
+| 온:다 (ON:DA) | 안산 상호문화 AI 플랫폼 | 비공개 |
+| 든든시세 | 가락시장 시세 → 학교급식 1인 원가 변환 | [저장소](https://github.com/choihyungyu0/dundunsise) |
+| 다타버스 (DATA-BUS) | 원주 대중교통 사각지대·DRT 최적배치 | 비공개 |
+| AI-remory | AI 메모리 서비스 | [저장소](https://github.com/AI-Remory/remoryFE) |
+| Pothole Prevention Platform | 도로 포트홀 예방·신고 플랫폼 | [저장소](https://github.com/Pothole-Prevention-Platform/Frontend) |
+| Startup Fit AI | AI 창업 진단 플랫폼 | [저장소](https://github.com/choihyungyu0/StartupFitAI) |
+| 부산 온길 AI | 보행약자 접근성 데이터 플랫폼 | [저장소](https://github.com/choihyungyu0/ongil) |
+| PMS | AI 여성 건강 리포트 플랫폼 | [저장소](https://github.com/choihyungyu0/PMS) |
+| NoriGo | 외국인 관광객 AI 여행 어시스턴트 | [저장소](https://github.com/choihyungyu0/NoriGo) |
+| NoriGo Admin | 관광 운영 관리자 대시보드 | [저장소](https://github.com/choihyungyu0/NorigoAdmin) |
+| Solar Power | 공동주택 태양광 설치 시뮬레이션 MVP | [저장소](https://github.com/choihyungyu0/solar-power) |
+| Sejong Safeway | 기후 안전 경로 추천 서비스 | [저장소](https://github.com/choihyungyu0/safeway) |
+| MetroPick | 광주 2호선 상권 AI 분석 플랫폼 | [저장소](https://github.com/choihyungyu0/MetroPick) |
+| 광주 상권·관광 수요예측 코파일럿 | 공공데이터 AI 분석 MVP | [저장소](https://github.com/choihyungyu0/gwangju-demand-copilot) |
+
+#### 2025
+
+| 프로젝트 | 내용 | 링크 |
+|:---|:---|:---|
+| 돌봄 ON | 시니어 케어 플랫폼 | [저장소](https://github.com/blaybus-hackathon/frontend) |
+| FamTalk | 호서대학교 중심사업단 | [저장소](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main) |
+| AISW HOSEOTHON FE | 호서대학교 AI·SW 해커톤 | [저장소](https://github.com/choihyungyu0/2025_AISW_HOSEOTHON_TEAM_05_FE) |
+| 노청마루 | 구름톤 University 시즌톤 · 최우수상 | [저장소](https://github.com/choihyungyu0/2025_SEASONTHON_TEAM_64_FE) |
+| Nocheongmaru | 구름톤 유니브 웹 프로젝트 | [저장소](https://github.com/choihyungyu0/Nocheongmaru) |
+| 노하우 | 교내 프로젝트 | [저장소](https://github.com/choihyungyu0/web-project) |
+
+</details>
 
 <br/>
 
-## 🧠 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcv9632)](https://solved.ac/profile/zxcv9632)
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,fastapi,supabase" alt="TypeScript, React, Next.js, Python, FastAPI, Supabase"/>
 
 <br/>
 
-## 📫 Contact Me
-- 📮 Email: cchoi9632@gmail.com
-- 📝 Blog: [velog.io/@choihyunkyu](https://velog.io/@choihyunkyu/posts)
-- 🔗 Notion
+## About
 
-<br/>
+- 충북대학교 소프트웨어학부 재학 (2023~)
+- 멋쟁이사자처럼 충북대 프론트엔드 운영진 (2026~) · 구름톤 유니브 프론트엔드 (2025~)
+- UNIKER AI 커널아카데미 수료 (2026.09)
+- 경남로봇고등학교 로봇소프트웨어과 졸업 · 공군 정보통신대대 행정병 복무
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+**진행 중** 2026 장애인 분야 해커톤 2차 · 2026 데이터·AI 크리에이터 캠프(NIA) · 멋쟁이사자처럼 해커톤 운영 준비
