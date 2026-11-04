@@ -13,13 +13,14 @@
 
 ## Highlights
 
-공공데이터 · AI 분야 공모전과 해커톤에서 기획부터 개발까지 맡아 **수상 19건**(대상 3 · 최우수 7 · 우수 6 · 장려 2 · 입선 1), 수상 예정 1건.
+공공데이터 · AI 분야 공모전과 해커톤에서 기획부터 개발까지 맡아 **수상 20건**(대상 3 · 최우수 8 · 우수 6 · 장려 2 · 입선 1).
 
 | 훈격 | 대회 | 프로젝트 |
 |:---|:---|:---|
 | **부총리 겸 과학기술정보통신부 장관상** · 대상 | 제3회 미래융합인재 발굴 SW 챌린지 | [온지붕](https://github.com/choihyungyu0/slate-roof-gyeongsan) |
 | **행정안전부 장관상** · 최우수상 | 제21회 공중화장실 혁신 아이디어 공모전 | 공중화장실 혁신 아이디어 |
 | **소방청장상** · 최우수상 | 제6회 소방안전 빅데이터 활용 및 아이디어 경진대회 | [사각119](https://github.com/choihyungyu0/sagak119) |
+| **안양시장상** · 최우수상 | 안양시 공공데이터·AI 활용 대학생 공모전 | [필지 블랙박스](https://github.com/choihyungyu0/pilji-blackbox) |
 
 <details>
 <summary><b>전체 수상 내역 보기</b></summary>
@@ -32,7 +33,7 @@
 | 🥇 **대상** `부총리 겸 과학기술정보통신부 장관상` | 제3회 미래융합인재 발굴 SW 챌린지<br/><sub>주최 과학기술정보통신부·경산시 · AI 및 빅데이터 분야</sub> | [온지붕](https://github.com/choihyungyu0/slate-roof-gyeongsan) — 건축물대장 AI 기반 석면 슬레이트 주택 발굴 (도달팀) |
 | 🥇 **대상** `경상국립대학교 총장상` | [GNU-SDGs/ESG 공모전](https://www.gnu.ac.kr/sdgs/na/ntt/selectNttInfo.do?nttSn=7775741&mi=16879)<br/><sub>주최 경상국립대학교 · 주관 지속가능발전센터</sub> | SDGs/ESG 아이디어 |
 | 🥇 **대상** `서울관광재단 대표이사상` | 비짓서울(Visit Seoul) API·데이터 활용 아이디어 공모전<br/><sub>주최 서울관광재단</sub> | 비짓서울 API 활용 관광 서비스 |
-| 🏆 **수상 예정** `안양시장상` | 안양시 공공데이터·AI 활용 대학생 공모전<br/><sub>주최 안양시</sub> | [필지 블랙박스](https://github.com/choihyungyu0/pilji-blackbox) — 토지 분쟁 사건 워크플로·법정서식 자동화 |
+| 🏆 **최우수상** `안양시장상` | 안양시 공공데이터·AI 활용 대학생 공모전<br/><sub>주최 안양시</sub> | [필지 블랙박스](https://github.com/choihyungyu0/pilji-blackbox) — 토지 분쟁 사건 워크플로·법정서식 자동화 |
 | 🏆 **최우수상** `행정안전부 장관상` | 제21회 공중화장실 혁신 아이디어 공모전<br/><sub>주최 행정안전부</sub> | 공중화장실 혁신 아이디어 |
 | 🏆 **최우수상** `영주시장상` | [영주시 공공데이터 활용 창업경진대회](https://www.imaeil.com/page/view/2026080409462762305)<br/><sub>주최 영주시 · 제품·서비스 개발 부문</sub> | [영주선비길](https://github.com/choihyungyu0/seonbi-talk) — AI 관광 코스 추천 플랫폼 |
 | 🏆 **최우수상** `소방청장상` | 제6회 소방안전 빅데이터 활용 및 아이디어 경진대회<br/><sub>주최 소방청 · 서비스개발 부문</sub> | [사각119](https://github.com/choihyungyu0/sagak119) — 소방 안전 사각지대 분석 |
@@ -66,7 +67,7 @@
 | [**온지붕**](https://github.com/choihyungyu0/slate-roof-gyeongsan) | 건축물대장 지붕 기재를 규칙표로 전수 판정해 석면 슬레이트 주택을 찾고, 담당 공무원용 명부·안내문·현장 확인 화면까지 구현 | 대상 · 과학기술정보통신부 장관상 |
 | [**사각119**](https://github.com/choihyungyu0/sagak119) | 화재 사망 사각지대를 분석해 주택용 소방시설 보급 대상을 타깃팅 | 최우수상 · 소방청장상 |
 | [**영주선비길**](https://github.com/choihyungyu0/seonbi-talk) | 영주 공공데이터 기반 AI 관광 코스 추천 플랫폼 | 최우수상 · 영주시장상 |
-| [**필지&nbsp;블랙박스**](https://github.com/choihyungyu0/pilji-blackbox) | 토지 분쟁 사건 워크플로와 법정서식 작성을 자동화 | 안양시장상 수상 예정 |
+| [**필지&nbsp;블랙박스**](https://github.com/choihyungyu0/pilji-blackbox) | 토지 분쟁 사건 워크플로와 법정서식 작성을 자동화 | 최우수상 · 안양시장상 |
 
 <details>
 <summary><b>다른 프로젝트 32개 보기</b></summary>
